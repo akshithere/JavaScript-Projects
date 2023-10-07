@@ -1,0 +1,27 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+p#dateandtime{
+
+    font-size: 25px;
+color: white;
+background-color: crimson;
+border: solid 50px crimson;
+border-radius: 100px;
+
+
+}

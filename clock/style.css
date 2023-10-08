@@ -17,11 +17,21 @@
 }
 p#dateandtime{
 
-    font-size: 25px;
+    /* font-size: 25px;
 color: white;
 background-color: crimson;
 border: solid 50px crimson;
-border-radius: 100px;
+border-radius: 100px; */
+color: white;
+font-size: 30px;
+position: relative;
+width: 400px;
+height: 400px;
+background-color: crimson;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
 
 
 }
